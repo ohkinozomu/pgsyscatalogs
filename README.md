@@ -10,3 +10,5 @@ PostgreSQL system catalogs(WIP)
 - pg_attrdef
 - pg_attribute
 - pg_class
+- pg_constraint
+- pg_conversion
