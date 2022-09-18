@@ -6,3 +6,6 @@ PostgreSQL system catalogs(WIP)
 
 - pg_aggregate
 - pg_am
+- pg_amproc
+- pg_attrdef
+- pg_attribute
