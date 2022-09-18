@@ -12,3 +12,4 @@ PostgreSQL system catalogs(WIP)
 - pg_class
 - pg_constraint
 - pg_conversion
+- pg_enum
