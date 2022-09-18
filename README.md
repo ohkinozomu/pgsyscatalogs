@@ -9,3 +9,4 @@ PostgreSQL system catalogs(WIP)
 - pg_amproc
 - pg_attrdef
 - pg_attribute
+- pg_class
