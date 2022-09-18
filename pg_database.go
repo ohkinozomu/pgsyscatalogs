@@ -5,7 +5,7 @@ import (
 )
 
 // https://www.postgresql.org/docs/current/catalog-pg-database.html
-type pgDatabase struct {
+type PgDatabase struct {
 	OID           pgtype.OID
 	Datname       pgtype.Name
 	Datdba        pgtype.OID
